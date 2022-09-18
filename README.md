@@ -1,5 +1,4 @@
 # maa724.github.io
-theme: minima
 ![LU](https://github.com/maa724/maa724.github.io/blob/main/IMG_0596.jpeg)
 ## Self Introduction
 My name is Martina Albin. Currently, I am a junior at Lehigh University studying journalism and psychology. This is my page for my data journalism class.
