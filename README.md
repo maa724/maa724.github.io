@@ -6,6 +6,6 @@ As a journalism major, I am very much interested in communications, media, and w
 ## Lehigh 2021 ENROLLEMENT DATA
 ![INFOGRAPHIC](https://github.com/maa724/maa724.github.io/blob/main/Orange%20and%20Gray%20Simple%20Informational%20Infographic.png?raw=true)
 
-<img src="[image url](https://github.com/maa724/maa724.github.io/blob/main/Orange%20and%20Gray%20Simple%20Informational%20Infographic.png?raw=true)" alt="image title" width="400"/>
+<img src="https://github.com/maa724/maa724.github.io/blob/main/Orange%20and%20Gray%20Simple%20Informational%20Infographic.png?raw=true" alt="image title" width="400"/>
 
 The data originates from Lehigh University's website for the 2021 admission cycle. The data demonstrates that most people who enroll as an undergraduate and as a graduate student tend to fall under arts & sciences, business, and engineering. One of the main differences from is graduate students have an education program, that many of the enroll students fell under. However, as seen on both pie charts, Lehigh does have a variety of people mixed into their different schools.
