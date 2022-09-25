@@ -11,7 +11,7 @@ As a journalism major, I am very much interested in communications, media, and w
 The data originates from Lehigh University's website for the 2021 admission cycle. The data demonstrates that most people who enroll as an undergraduate and as a graduate student tend to fall under arts & sciences, business, and engineering. One of the main differences from is graduate students have an education program, that many of the enroll students fell under. However, as seen on both pie charts, Lehigh does have a variety of people mixed into their different schools.
 
 ## MOST VIEWED K-POP VIDEOS IN 2021 
-IMG
+<img src="https://github.com/maa724/maa724.github.io/blob/main/Teal%20Gold%20Sports%20Timeline%20Infographic.jpeg?raw=true" alt="image title" width="400"/>
 The data shows the most popular videos from different K-pop artist in 2021. The infographic breaks it down into three categories: soloist, girl groups, boy groups. The data is taken from the groups or solo acts YouTube videos.  In the soloist charts, only women solo acts were in the top 5, in which 4/5 of the songs were made by BLACKPINK members. As for girl groups, TWICE seemed to have the most popularity but AESPA still had many views. As for the boy groups, unsurprisingly, BTS dominated with their hits Butter and Permission to Dance. Groups like BLACKPINK, BTS, and TWICE seem to be the most listened to groups when it comes to K-pop.
 
 
