@@ -12,6 +12,7 @@ The data originates from Lehigh University's website for the 2021 admission cycl
 
 ## MOST VIEWED K-POP VIDEOS IN 2021 
 <img src="https://github.com/maa724/maa724.github.io/blob/main/Teal%20Gold%20Sports%20Timeline%20Infographic.jpeg?raw=true" alt="image title" width="400"/>
+
 The data shows the most popular videos from different K-pop artist in 2021. The infographic breaks it down into three categories: soloist, girl groups, boy groups. The data is taken from the groups or solo acts YouTube videos.  In the soloist charts, only women solo acts were in the top 5, in which 4/5 of the songs were made by BLACKPINK members. As for girl groups, TWICE seemed to have the most popularity but AESPA still had many views. As for the boy groups, unsurprisingly, BTS dominated with their hits Butter and Permission to Dance. Groups like BLACKPINK, BTS, and TWICE seem to be the most listened to groups when it comes to K-pop.
 
 LINKS TO DATA: The data originates from AE Top Musics, a YouTube K-pop account. The data was taken in March - May of 2022.
