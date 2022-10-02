@@ -22,6 +22,8 @@ https://www.youtube.com/watch?v=KgRoscT_0dU&list=TLPQMjUwOTIwMjKpFR_ly6jL7A&inde
 
 ## Lehigh - Layfette Rivarly Timeline
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Mtv-n0C8K_9fbty6EKsVsu-Cv3FEN8vbnkfkPkg76bM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' frameborder='0'></iframe>
+This timeline shows the important dates in the most played football rivarly in the country.
 
 ## Global Superstars BTS' Timeline
-</iframe>source=1BbwL1E5hnzDL19ccqEHQeQHMT_KSNq92h2OFK5WpnZE&font=Default&lang=en&initial_zoom=2&height=650'</iframe>
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1BbwL1E5hnzDL19ccqEHQeQHMT_KSNq92h2OFK5WpnZE&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+This timeline shows the success of the K-Pop group BTS and some of the events that lead them to being the biggest musicians in the world right now. The timeline starts with groups debut in 2013 with their album, "2 COOL 4 SKOOL". It ends in 2021 when the group became the first Korean Act to perform and be nominated for a Grammy.
