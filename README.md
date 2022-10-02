@@ -27,3 +27,8 @@ This timeline shows the important dates in the most played football rivarly in t
 ## Global Superstars BTS' Timeline
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1BbwL1E5hnzDL19ccqEHQeQHMT_KSNq92h2OFK5WpnZE&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 This timeline shows the success of the K-Pop group BTS and some of the events that lead them to being the biggest musicians in the world right now. The timeline starts with groups debut in 2013 with their album, "2 COOL 4 SKOOL". It ends in 2021 when the group became the first Korean Act to perform and be nominated for a Grammy.
+Sources:
+https://www.insider.com/how-bts-became-global-sensation-popular-timeline#their-music-often-carries-messages-around-social-issues-which-has-become-part-of-the-groups-musical-identity-6
+https://www.vox.com/culture/2018/6/13/17426350/bts-history-members-explained
+https://www.thenationalnews.com/arts-culture/music/a-timeline-of-bts-how-the-k-pop-superstars-took-over-the-world-1.897514
+https://www.sportskeeda.com/pop-culture/bts-firsts-music-show-win-daesang#:~:text=On%20May%205%2C%202015%2C%20they,the%20members%20were%20rendered%20speechless
