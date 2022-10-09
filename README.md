@@ -32,5 +32,8 @@ https://www.insider.com/how-bts-became-global-sensation-popular-timeline#their-m
 https://www.vox.com/culture/2018/6/13/17426350/bts-history-members-explained
 https://www.thenationalnews.com/arts-culture/music/a-timeline-of-bts-how-the-k-pop-superstars-took-over-the-world-1.897514
 https://www.sportskeeda.com/pop-culture/bts-firsts-music-show-win-daesang#:~:text=On%20May%205%2C%202015%2C%20they,the%20members%20were%20rendered%20speechless
-
+Percent of Undergraudate Enrollement in
 ![Bar Chart](https://github.com/maa724/maa724.github.io/blob/main/Lehigh's_Percent_of_Undergraduate_Enrollment_in_2021_Percent_of_Undergraduate_Enrollment_chartbuilder%20(1).png?raw=true)
+Percentage of Sexuality of Youth in Massachusetts
+![Other Bar Chart](https://github.com/maa724/maa724.github.io/blob/main/Percentage_of_Sexuality_of_Youth_in_Massachusetts_in_2019_Percentage_chartbuilder.png?raw=true)
+This bar chart shows the percentage of sexuality of youth in Massachusetts from the CDC. This was conducted in 2019 and shows the data from  1,835 students.
