@@ -39,3 +39,6 @@ https://www.sportskeeda.com/pop-culture/bts-firsts-music-show-win-daesang#:~:tex
 ## Percentage of Sexuality of Youth in Massachusetts
 ![Other Bar Chart](https://github.com/maa724/maa724.github.io/blob/main/Percentage_of_Sexuality_of_Youth_in_Massachusetts_in_2019_Percentage_chartbuilder.png?raw=true)
 This bar chart shows the percentage of sexuality of youth in Massachusetts from the CDC. This was conducted in 2019 and shows the data from  1,835 students.
+
+## Percentage of Students from 2016-2020 at the different Lehigh Colleges 
+![Line Chart](https://github.com/maa724/maa724.github.io/blob/main/Percentage_of_Students_from_2016-2020_at_the_different_Lehigh_Colleges__Arts_&_Sciences_Buisness_Engineering_chartbuilder.png?raw=true)
