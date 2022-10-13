@@ -42,3 +42,6 @@ This bar chart shows the percentage of sexuality of youth in Massachusetts from 
 
 ## Percentage of Students from 2016-2020 at the different Lehigh Colleges 
 ![Line Chart](https://github.com/maa724/maa724.github.io/blob/main/Percentage_of_Students_from_2016-2020_at_the_different_Lehigh_Colleges__Arts_&_Sciences_Buisness_Engineering_chartbuilder.png?raw=true)
+
+## 2017 Life Satisfaction and GDP per capita
+![Scatter Plot](https://github.com/maa724/maa724.github.io/blob/main/2017_Life_Satisfaction_and_GDP_per_capita_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true)
