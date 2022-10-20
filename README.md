@@ -49,3 +49,6 @@ This bar chart shows the percentage of sexuality of youth in Massachusetts from 
 ## Number of Lyme Disease cases in Massachusetts between 2008-2017
 ![Line Graph](https://github.com/maa724/maa724.github.io/blob/main/Number_of_Lyme_Disease_cases_in_Massachusetts_between_2008-2017_Cases_chartbuilder%20(1).png?raw=true)
 The data for this line graph comes from the CDC. It shows how much cases of Lyme disease in Massachusetts between the years of 2008-2017. The graph shows that there were over 4,000 cases in 2008 however there was a decline during 2010-2011. After 2011, there was a steep increase in cases 2012. During 2012- 2015, the cases were stable of around 5,000 per year. Starting in 2016, there was a huge decrease as there was only 198 cases. The graph ends with a small increase in 2017 with 410 cases but fortunately not as much in the previous years.
+
+## 2019 World's Top 20 Cycling Cities
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1IfxKkCLcCcWHY91pCaiLSpYoSvADPVI&ehbc=2E312F" width="640" height="480"></iframe>
