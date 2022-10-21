@@ -52,3 +52,7 @@ The data for this line graph comes from the CDC. It shows how much cases of Lyme
 
 ## 2019 World's Top 20 Cycling Cities
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1IfxKkCLcCcWHY91pCaiLSpYoSvADPVI&ehbc=2E312F" width="640" height="480"></iframe>
+
+## 2021's Top LGBT Friendly Countries
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1-sZE_GDp2AlA3rmWIyrboeFeDiRKwJM&ehbc=2E312F" width="640" height="480"></iframe>
+According to the Gay Travel index of 2021, these are the top five friendliest LGBT places in the world: Canada, Malta, Portugal, Spain, and Austria. The order ranged from highest to lowest where Canada received 13 points while Austria had 10. There are 17 categories that are taken into consideration when making this index; some of them include, gay marriage, death penalty for LGBT individuals, gay marketing, and more. There are 202 countries on the index; also, it is color coded from green (most friendly) to red (dangerous).
