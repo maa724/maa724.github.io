@@ -6,7 +6,7 @@ My name is Martina Albin. Currently, I am a junior at Lehigh University studying
 As a journalism major, I am very much interested in communications, media, and writing. With psychology, I am interested with the different ways psychology in how different forms and media can influence individuals. I am currently a student reporter for my university's newspaper, [Brown & White page](https://thebrownandwhite.com/author/maa724/), where I have written a couple of articles in the last year; I have wrote about various topics ranging from the college town of Bethlehem, to student life.  Additionally, for a year I worked as a freelance writer for a social media company, Tree Frog Social; I wrote about different pop culture and social media topics. This past summer, I had an internship with Sant Jordi Hostels in Barcelona where I wrote articles about traveling and exploring Barcelona for the [company's blog](https://www.santjordihostels.com/blog/).
 
 ## Cartoon Introduction
-<img src="https://github.com/maa724/maa724.github.io/blob/main/data.png?raw=true)" alt="image title" width="400"/>
+<img src="https://github.com/maa724/maa724.github.io/blob/main/data.png?raw=true)" alt="image title" width="600"/>
 
 ## Lehigh 2021 ENROLLEMENT DATA
 <img src="https://github.com/maa724/maa724.github.io/blob/main/Orange%20and%20Gray%20Simple%20Informational%20Infographic.png?raw=true" alt="image title" width="400"/>
