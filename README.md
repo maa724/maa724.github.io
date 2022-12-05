@@ -39,7 +39,7 @@ https://www.sportskeeda.com/pop-culture/bts-firsts-music-show-win-daesang#:~:tex
 ## Lehigh's Percent of Undergraduate Enrollment in 2021
 ![Bar Chart](https://github.com/maa724/maa724.github.io/blob/main/Lehigh's_Percent_of_Undergraduate_Enrollment_in_2021_Percent_of_Undergraduate_Enrollment_chartbuilder%20(1).png?raw=true)
 
-<img src="[https://github.com/maa724/maa724.github.io/blob/main/data.png?raw=true)" alt="image title](https://github.com/maa724/maa724.github.io/blob/main/Lehigh's_Percent_of_Undergraduate_Enrollment_in_2021_Percent_of_Undergraduate_Enrollment_chartbuilder%20(1).png?raw=true)" width="600"/>
+<img src="(https://github.com/maa724/maa724.github.io/blob/main/Lehigh's_Percent_of_Undergraduate_Enrollment_in_2021_Percent_of_Undergraduate_Enrollment_chartbuilder%20(1).png?raw=true)" alt="image title" width="600"/>
 
 ## Percentage of Sexuality of Youth in Massachusetts
 ![Other Bar Chart](https://github.com/maa724/maa724.github.io/blob/main/Percentage_of_Sexuality_of_Youth_in_Massachusetts_in_2019_Percentage_chartbuilder.png?raw=true)
