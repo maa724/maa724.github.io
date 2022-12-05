@@ -39,6 +39,8 @@ https://www.sportskeeda.com/pop-culture/bts-firsts-music-show-win-daesang#:~:tex
 ## Lehigh's Percent of Undergraduate Enrollment in 2021
 ![Bar Chart](https://github.com/maa724/maa724.github.io/blob/main/Lehigh's_Percent_of_Undergraduate_Enrollment_in_2021_Percent_of_Undergraduate_Enrollment_chartbuilder%20(1).png?raw=true)
 
+<img src="[https://github.com/maa724/maa724.github.io/blob/main/data.png?raw=true)" alt="image title](https://github.com/maa724/maa724.github.io/blob/main/Lehigh's_Percent_of_Undergraduate_Enrollment_in_2021_Percent_of_Undergraduate_Enrollment_chartbuilder%20(1).png?raw=true)" width="600"/>
+
 ## Percentage of Sexuality of Youth in Massachusetts
 ![Other Bar Chart](https://github.com/maa724/maa724.github.io/blob/main/Percentage_of_Sexuality_of_Youth_in_Massachusetts_in_2019_Percentage_chartbuilder.png?raw=true)
 This bar chart shows the percentage of sexuality of youth in Massachusetts from the CDC. This was conducted in 2019 and shows the data from  1,835 students.
@@ -47,8 +49,6 @@ This bar chart shows the percentage of sexuality of youth in Massachusetts from 
 ![Line Chart](https://github.com/maa724/maa724.github.io/blob/main/Percentage_of_Students_from_2016-2020_at_the_different_Lehigh_Colleges__Arts_&_Sciences_Buisness_Engineering_chartbuilder.png?raw=true)
 
 ## 2017 Life Satisfaction and GDP per capita
-![Scatter Plot](https://github.com/maa724/maa724.github.io/blob/main/2017_Life_Satisfaction_and_GDP_per_capita_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true)
-
 <img src="https://github.com/maa724/maa724.github.io/blob/main/2017_Life_Satisfaction_and_GDP_per_capita_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true)" alt="image title" width="600"/>
 
 ## Number of Lyme Disease cases in Massachusetts between 2008-2017
