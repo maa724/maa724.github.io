@@ -31,10 +31,10 @@ This timeline shows the important dates in the most played football rivarly in t
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1BbwL1E5hnzDL19ccqEHQeQHMT_KSNq92h2OFK5WpnZE&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 This timeline shows the success of the K-Pop group BTS and some of the events that lead them to being the biggest musicians in the world right now. The timeline starts with groups debut in 2013 with their album, "2 COOL 4 SKOOL". It ends in 2021 when the group became the first Korean Act to perform and be nominated for a Grammy.
 Sources:
-[one]([url](https://www.insider.com/how-bts-became-global-sensation-popular-timeline#their-music-often-carries-messages-around-social-issues-which-has-become-part-of-the-groups-musical-identity-6)
-[two]([url](https://www.vox.com/culture/2018/6/13/17426350/bts-history-members-explained)
-[three]([url](https://www.thenationalnews.com/arts-culture/music/a-timeline-of-bts-how-the-k-pop-superstars-took-over-the-world-1.897514)
-[four]([url](https://www.sportskeeda.com/pop-culture/bts-firsts-music-show-win-daesang#:~:text=On%20May%205%2C%202015%2C%20they,the%20members%20were%20rendered%20speechless)
+[one](https://www.insider.com/how-bts-became-global-sensation-popular-timeline#their-music-often-carries-messages-around-social-issues-which-has-become-part-of-the-groups-musical-identity-6)
+[two](https://www.vox.com/culture/2018/6/13/17426350/bts-history-members-explained)
+[three](https://www.thenationalnews.com/arts-culture/music/a-timeline-of-bts-how-the-k-pop-superstars-took-over-the-world-1.897514)
+[four](https://www.sportskeeda.com/pop-culture/bts-firsts-music-show-win-daesang#:~:text=On%20May%205%2C%202015%2C%20they,the%20members%20were%20rendered%20speechless)
 
 ## Lehigh's Percent of Undergraduate Enrollment in 2021
 <img src="https://github.com/maa724/maa724.github.io/blob/main/Lehigh's_Percent_of_Undergraduate_Enrollment_in_2021_Percent_of_Undergraduate_Enrollment_chartbuilder%20(1).png?raw=true" alt="image title" width="600"/>
@@ -42,7 +42,7 @@ Sources:
 ## Percentage of Sexuality of Youth in Massachusetts
 <img src="https://github.com/maa724/maa724.github.io/blob/main/Percentage_of_Sexuality_of_Youth_in_Massachusetts_in_2019_Percentage_chartbuilder.png?raw=true" alt="image title" width="600"/>
 This bar chart shows the percentage of sexuality of youth in Massachusetts from the CDC. This was conducted in 2019 and shows the data from  1,835 students.
-Sources: [Click Here]([url](https://www.cdc.gov/healthyyouth/data/yrbs/2019_tables/students_by_sexual_identity.htm)
+Sources: [Click Here](https://www.cdc.gov/healthyyouth/data/yrbs/2019_tables/students_by_sexual_identity.htm)
 
 ## Percentage of Students from 2016-2020 at the different Lehigh Colleges 
 <img src="https://github.com/maa724/maa724.github.io/blob/main/Percentage_of_Students_from_2016-2020_at_the_different_Lehigh_Colleges__Arts_&_Sciences_Buisness_Engineering_chartbuilder.png?raw=true" alt="image title" width="600"/>
@@ -53,7 +53,7 @@ Sources: [Click Here]([url](https://www.cdc.gov/healthyyouth/data/yrbs/2019_tabl
 ## Number of Lyme Disease cases in Massachusetts between 2008-2017
 <img src="https://github.com/maa724/maa724.github.io/blob/main/Number_of_Lyme_Disease_cases_in_Massachusetts_between_2008-2017_Cases_chartbuilder%20(1).png?raw=true" alt="image title" width="600"/>
 The data for this line graph comes from the CDC. It shows how much cases of Lyme disease in Massachusetts between the years of 2008-2017. The graph shows that there were over 4,000 cases in 2008 however there was a decline during 2010-2011. After 2011, there was a steep increase in cases 2012. During 2012- 2015, the cases were stable of around 5,000 per year. Starting in 2016, there was a huge decrease as there was only 198 cases. The graph ends with a small increase in 2017 with 410 cases but fortunately not as much in the previous years.
-Sources: [Click Here]([url](https://www.cdc.gov/lyme/datasurveillance/surveillance-data.html)
+Sources: [Click Here](https://www.cdc.gov/lyme/datasurveillance/surveillance-data.html)
 
 ## 2019 World's Top 20 Cycling Cities
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1IfxKkCLcCcWHY91pCaiLSpYoSvADPVI&ehbc=2E312F" width="640" height="480"></iframe>
@@ -61,6 +61,7 @@ Sources: [Click Here]([url](https://www.cdc.gov/lyme/datasurveillance/surveillan
 ## 2021's Top LGBT Friendly Countries
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1-sZE_GDp2AlA3rmWIyrboeFeDiRKwJM&ehbc=2E312F" width="640" height="480"></iframe>
 According to the Gay Travel index of 2021, these are the top five friendliest LGBT places in the world: Canada, Malta, Portugal, Spain, and Austria. The order ranged from highest to lowest where Canada received 13 points while Austria had 10. There are 17 categories that are taken into consideration when making this index; some of them include, gay marriage, death penalty for LGBT individuals, gay marketing, and more. There are 202 countries on the index; also, it is color coded from green (most friendly) to red (dangerous).
+Sources:[Click Here](https://spartacus.gayguide.travel/gaytravelindex.pdf)
 
 ## Lehigh Students Prefered Party Location
 <div class='tableauPlaceholder' id='viz1667172129033' style='position: relative'><noscript><a href='#'><img alt='Party location' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;If&#47;IfLehighStudentsattendpartiesOffCampus&#47;Partylocation&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='IfLehighStudentsattendpartiesOffCampus&#47;Partylocation' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;If&#47;IfLehighStudentsattendpartiesOffCampus&#47;Partylocation&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1667172129033'); var vizElement = divElement.getElementsByTagName('object')[0]; if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='727px';} var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
