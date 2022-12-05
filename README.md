@@ -40,24 +40,18 @@ https://www.sportskeeda.com/pop-culture/bts-firsts-music-show-win-daesang#:~:tex
 <img src="https://github.com/maa724/maa724.github.io/blob/main/Lehigh's_Percent_of_Undergraduate_Enrollment_in_2021_Percent_of_Undergraduate_Enrollment_chartbuilder%20(1).png?raw=true" alt="image title" width="600"/>
 
 ## Percentage of Sexuality of Youth in Massachusetts
-![Other Bar Chart](https://github.com/maa724/maa724.github.io/blob/main/Percentage_of_Sexuality_of_Youth_in_Massachusetts_in_2019_Percentage_chartbuilder.png?raw=true)
+<img src="https://github.com/maa724/maa724.github.io/blob/main/Percentage_of_Sexuality_of_Youth_in_Massachusetts_in_2019_Percentage_chartbuilder.png?raw=true" alt="image title" width="600"/>
 This bar chart shows the percentage of sexuality of youth in Massachusetts from the CDC. This was conducted in 2019 and shows the data from  1,835 students.
 
-<img src="https://github.com/maa724/maa724.github.io/blob/main/Percentage_of_Sexuality_of_Youth_in_Massachusetts_in_2019_Percentage_chartbuilder.png?raw=true" alt="image title" width="600"/>
-
 ## Percentage of Students from 2016-2020 at the different Lehigh Colleges 
-![Line Chart](https://github.com/maa724/maa724.github.io/blob/main/Percentage_of_Students_from_2016-2020_at_the_different_Lehigh_Colleges__Arts_&_Sciences_Buisness_Engineering_chartbuilder.png?raw=true)
-
 <img src="https://github.com/maa724/maa724.github.io/blob/main/Percentage_of_Students_from_2016-2020_at_the_different_Lehigh_Colleges__Arts_&_Sciences_Buisness_Engineering_chartbuilder.png?raw=true" alt="image title" width="600"/>
 
 ## 2017 Life Satisfaction and GDP per capita
 <img src="https://github.com/maa724/maa724.github.io/blob/main/2017_Life_Satisfaction_and_GDP_per_capita_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true)" alt="image title" width="600"/>
 
 ## Number of Lyme Disease cases in Massachusetts between 2008-2017
-![Line Graph](https://github.com/maa724/maa724.github.io/blob/main/Number_of_Lyme_Disease_cases_in_Massachusetts_between_2008-2017_Cases_chartbuilder%20(1).png?raw=true)
-The data for this line graph comes from the CDC. It shows how much cases of Lyme disease in Massachusetts between the years of 2008-2017. The graph shows that there were over 4,000 cases in 2008 however there was a decline during 2010-2011. After 2011, there was a steep increase in cases 2012. During 2012- 2015, the cases were stable of around 5,000 per year. Starting in 2016, there was a huge decrease as there was only 198 cases. The graph ends with a small increase in 2017 with 410 cases but fortunately not as much in the previous years.
-
 <img src="https://github.com/maa724/maa724.github.io/blob/main/Number_of_Lyme_Disease_cases_in_Massachusetts_between_2008-2017_Cases_chartbuilder%20(1).png?raw=true" alt="image title" width="600"/>
+The data for this line graph comes from the CDC. It shows how much cases of Lyme disease in Massachusetts between the years of 2008-2017. The graph shows that there were over 4,000 cases in 2008 however there was a decline during 2010-2011. After 2011, there was a steep increase in cases 2012. During 2012- 2015, the cases were stable of around 5,000 per year. Starting in 2016, there was a huge decrease as there was only 198 cases. The graph ends with a small increase in 2017 with 410 cases but fortunately not as much in the previous years.
 
 ## 2019 World's Top 20 Cycling Cities
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1IfxKkCLcCcWHY91pCaiLSpYoSvADPVI&ehbc=2E312F" width="640" height="480"></iframe>
