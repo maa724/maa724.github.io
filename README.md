@@ -49,6 +49,8 @@ This bar chart shows the percentage of sexuality of youth in Massachusetts from 
 ## 2017 Life Satisfaction and GDP per capita
 ![Scatter Plot](https://github.com/maa724/maa724.github.io/blob/main/2017_Life_Satisfaction_and_GDP_per_capita_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true)
 
+<img src="https://github.com/maa724/maa724.github.io/blob/main/2017_Life_Satisfaction_and_GDP_per_capita_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true)" alt="image title" width="600"/>
+
 ## Number of Lyme Disease cases in Massachusetts between 2008-2017
 ![Line Graph](https://github.com/maa724/maa724.github.io/blob/main/Number_of_Lyme_Disease_cases_in_Massachusetts_between_2008-2017_Cases_chartbuilder%20(1).png?raw=true)
 The data for this line graph comes from the CDC. It shows how much cases of Lyme disease in Massachusetts between the years of 2008-2017. The graph shows that there were over 4,000 cases in 2008 however there was a decline during 2010-2011. After 2011, there was a steep increase in cases 2012. During 2012- 2015, the cases were stable of around 5,000 per year. Starting in 2016, there was a huge decrease as there was only 198 cases. The graph ends with a small increase in 2017 with 410 cases but fortunately not as much in the previous years.
