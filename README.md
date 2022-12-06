@@ -19,9 +19,12 @@ The data originates from Lehigh University's website for the 2021 admission cycl
 The data shows the most popular videos from different K-pop artist in 2021. The infographic breaks it down into three categories: soloist, girl groups, and boy groups. The data is taken from the groups or solo acts YouTube videos.  In the soloist charts, only women solo acts were in the top 5, in which 4/5 of the songs were made by BLACKPINK members. As for girl groups, TWICE seemed to have the most popularity but AESPA still had many views. As for the boy groups, unsurprisingly, BTS dominated with their hits Butter and Permission to Dance. Groups like BLACKPINK, BTS, and TWICE seem to be the most listened to groups when it comes to K-pop.
 
 LINKS TO DATA: The data originates from AE Top Musics, a YouTube K-pop account. The data was taken in March - May of 2022.
+
 [one](https://www.youtube.com/watch?v=CPxG_Ab37BM&list=TLPQMjUwOTIwMjKpFR_ly6jL7A&index=3)
-[two]([url](https://www.youtube.com/watch?v=Rh3aspFoRFs&list=TLPQMjUwOTIwMjKpFR_ly6jL7A&index=4))
-[three]([url](https://www.youtube.com/watch?v=KgRoscT_0dU&list=TLPQMjUwOTIwMjKpFR_ly6jL7A&index=2))
+
+[two]([url](https://www.youtube.com/watch?v=Rh3aspFoRFs&list=TLPQMjUwOTIwMjKpFR_ly6jL7A&index=4)
+
+[three]([url](https://www.youtube.com/watch?v=KgRoscT_0dU&list=TLPQMjUwOTIwMjKpFR_ly6jL7A&index=2)
 
 ## Lehigh - Layfette Rivarly Timeline
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Mtv-n0C8K_9fbty6EKsVsu-Cv3FEN8vbnkfkPkg76bM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' frameborder='0'></iframe>
@@ -30,10 +33,13 @@ This timeline shows the important dates in the most played football rivarly in t
 ## Global Superstars BTS' Timeline
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1BbwL1E5hnzDL19ccqEHQeQHMT_KSNq92h2OFK5WpnZE&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 This timeline shows the success of the K-Pop group BTS and some of the events that lead them to being the biggest musicians in the world right now. The timeline starts with groups debut in 2013 with their album, "2 COOL 4 SKOOL". It ends in 2021 when the group became the first Korean Act to perform and be nominated for a Grammy.
-Sources:
+Sources: 
 [one](https://www.insider.com/how-bts-became-global-sensation-popular-timeline#their-music-often-carries-messages-around-social-issues-which-has-become-part-of-the-groups-musical-identity-6)
+
 [two](https://www.vox.com/culture/2018/6/13/17426350/bts-history-members-explained)
+
 [three](https://www.thenationalnews.com/arts-culture/music/a-timeline-of-bts-how-the-k-pop-superstars-took-over-the-world-1.897514)
+
 [four](https://www.sportskeeda.com/pop-culture/bts-firsts-music-show-win daesang#:~:text=On%20May%205%2C%202015%2C%20they,the%20members%20were%20rendered%20speechless)
 
 ## Lehigh's Percent of Undergraduate Enrollment in 2021
