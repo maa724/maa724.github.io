@@ -5,13 +5,16 @@
 My name is Martina Albin. Currently, I am a junior at Lehigh University studying journalism and psychology. This is my page for my data journalism class.
 As a journalism major, I am very much interested in communications, media, and writing. With psychology, I am interested with the different ways psychology in how different forms and media can influence individuals. I am currently a student reporter for my university's newspaper, [Brown & White page](https://thebrownandwhite.com/author/maa724/), where I have written a couple of articles in the last year; I have wrote about various topics ranging from the college town of Bethlehem, to student life.  Additionally, for a year I worked as a freelance writer for a social media company, Tree Frog Social; I wrote about different pop culture and social media topics. This past summer, I had an internship with Sant Jordi Hostels in Barcelona where I wrote articles about traveling and exploring Barcelona for the [company's blog](https://www.santjordihostels.com/blog/).
 
+
 ## Cartoon Introduction
 <img src="https://github.com/maa724/maa724.github.io/blob/main/data.png?raw=true)" alt="image title" width="600"/>
+
 
 ## Lehigh 2021 ENROLLEMENT DATA
 <img src="https://github.com/maa724/maa724.github.io/blob/main/Orange%20and%20Gray%20Simple%20Informational%20Infographic.png?raw=true" alt="image title" width="400"/>
 
 The data originates from Lehigh University's website for the 2021 admission cycle. The data demonstrates that most people who enroll as an undergraduate and as a graduate student tend to fall under arts & sciences, business, and engineering. One of the main differences from is graduate students have an education program, that many of the enroll students fell under. However, as seen on both pie charts, Lehigh does have a variety of people mixed into their different schools.
+
 
 ## MOST VIEWED K-POP VIDEOS IN 2021 
 <img src="https://github.com/maa724/maa724.github.io/blob/main/Teal%20Gold%20Sports%20Timeline%20Infographic.jpeg?raw=true" alt="image title" width="400"/>
@@ -20,35 +23,44 @@ The data shows the most popular videos from different K-pop artist in 2021. The 
 
 LINKS TO DATA: The data originates from AE Top Musics, a YouTube K-pop account. The data was taken in March - May of 2022. [one](https://www.youtube.com/watch?v=CPxG_Ab37BM&list=TLPQMjUwOTIwMjKpFR_ly6jL7A&index=3), [two](https://www.youtube.com/watch?v=Rh3aspFoRFs&list=TLPQMjUwOTIwMjKpFR_ly6jL7A&index=4), and [three](https://www.youtube.com/watch?v=KgRoscT_0dU&list=TLPQMjUwOTIwMjKpFR_ly6jL7A&index=2).
 
+
 ## Global Superstars BTS' Timeline
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1BbwL1E5hnzDL19ccqEHQeQHMT_KSNq92h2OFK5WpnZE&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 This timeline shows the success of the K-Pop group BTS and some of the events that lead them to being the biggest musicians in the world right now. The timeline starts with groups debut in 2013 with their album, "2 COOL 4 SKOOL". It ends in 2021 when the group became the first Korean Act to perform and be nominated for a Grammy.
 Sources: [one](https://www.insider.com/how-bts-became-global-sensation-popular-timeline#their-music-often-carries-messages-around-social-issues-which-has-become-part-of-the-groups-musical-identity-6), [two](https://www.vox.com/culture/2018/6/13/17426350/bts-history-members-explained), [three](https://www.thenationalnews.com/arts-culture/music/a-timeline-of-bts-how-the-k-pop-superstars-took-over-the-world-1.897514), and [four](https://www.sportskeeda.com/pop-culture/bts-firsts-music-show-win daesang#:~:text=On%20May%205%2C%202015%2C%20they,the%20members%20were%20rendered%20speechless).
 
+
 ## Percentage of Sexuality of Youth in Massachusetts
 <img src="https://github.com/maa724/maa724.github.io/blob/main/Percentage_of_Sexuality_of_Youth_in_Massachusetts_in_2019_Percentage_chartbuilder.png?raw=true" alt="image title" width="600"/> 
 
+
 This bar chart shows the percentage of sexuality of youth in Massachusetts from the CDC. This was conducted in 2019 and shows the data from  1,835 students.
-[Click Here](https://www.cdc.gov/healthyyouth/data/yrbs/2019_tables/students_by_sexual_identity.htm) for the source.
+[Click here](https://www.cdc.gov/healthyyouth/data/yrbs/2019_tables/students_by_sexual_identity.htm) for the source.
+
 
 ## Number of Lyme Disease cases in Massachusetts between 2008-2017
 <img src="https://github.com/maa724/maa724.github.io/blob/main/Number_of_Lyme_Disease_cases_in_Massachusetts_between_2008-2017_Cases_chartbuilder%20(1).png?raw=true" alt="image title" width="600"/>
 
+
 The data for this line graph comes from the CDC. It shows how much cases of Lyme disease in Massachusetts between the years of 2008-2017. The graph shows that there were over 4,000 cases in 2008 however there was a decline during 2010-2011. After 2011, there was a steep increase in cases 2012. During 2012- 2015, the cases were stable of around 5,000 per year. Starting in 2016, there was a huge decrease as there was only 198 cases. The graph ends with a small increase in 2017 with 410 cases but fortunately not as much in the previous years.
-[Click Here](https://www.cdc.gov/lyme/datasurveillance/surveillance-data.html) for the source.
+[Click here](https://www.cdc.gov/lyme/datasurveillance/surveillance-data.html) for the source.
+
 
 ## 2021's Top LGBT Friendly Countries
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1-sZE_GDp2AlA3rmWIyrboeFeDiRKwJM&ehbc=2E312F" width="640" height="480"></iframe>
 According to the Gay Travel index of 2021, these are the top five friendliest LGBT places in the world: Canada, Malta, Portugal, Spain, and Austria. The order ranged from highest to lowest where Canada received 13 points while Austria had 10. There are 17 categories that are taken into consideration when making this index; some of them include, gay marriage, death penalty for LGBT individuals, gay marketing, and more. There are 202 countries on the index; also, it is color coded from green (most friendly) to red (dangerous).
-[Click Here](https://spartacus.gayguide.travel/gaytravelindex.pdf) for the source.
+[Click here](https://spartacus.gayguide.travel/gaytravelindex.pdf) for the source.
+
 
 ## Lehigh Students Prefered Party Location
 <div class='tableauPlaceholder' id='viz1667172129033' style='position: relative'><noscript><a href='#'><img alt='Party location' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;If&#47;IfLehighStudentsattendpartiesOffCampus&#47;Partylocation&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='IfLehighStudentsattendpartiesOffCampus&#47;Partylocation' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;If&#47;IfLehighStudentsattendpartiesOffCampus&#47;Partylocation&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1667172129033'); var vizElement = divElement.getElementsByTagName('object')[0]; if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='727px';} var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
+
 
 ## If Lehigh Students attend parties Off Campus
 <div class='tableauPlaceholder' id='viz1667172235208' style='position: relative'><noscript><a href='#'><img alt='Dashboard 2' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;If&#47;IfLehighStudentsattendpartiesOffCampus&#47;Dashboard2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='IfLehighStudentsattendpartiesOffCampus&#47;Dashboard2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;If&#47;IfLehighStudentsattendpartiesOffCampus&#47;Dashboard2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1667172235208'); var vizElement = divElement.getElementsByTagName('object')[0]; if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='727px';} var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
   
 The data for the two bar graphs about parties and Lehigh students come from a survey taken in 2016. The first bar graph shows the difference in gender on where people like to attend their parties. Overall, women preferred to party at off campus houses while men preferred fraternity houses. Also, it is interesting to note that less men had no preference for where they would like to attend parties. In the second bar graph it shows the percentage of Lehigh students who have attended parties off campus. Overall, most Lehigh students have. However, more women than men who have attend an off campus party.
+
 
 ## BTS Speak Yourself Tour Locations, Attendance and Revenue
 <div class='tableauPlaceholder' id='viz1667950164207' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;PN&#47;PNDKWWYSN&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;PNDKWWYSN' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;PN&#47;PNDKWWYSN&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1667950164207'); var vizElement = divElement.getElementsByTagName('object')[0]; if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='1127px';}                     var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
